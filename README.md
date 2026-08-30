@@ -22,14 +22,6 @@ A powerful, secure, and lightweight automation tool designed for Roblox players 
 
 ---
 
-## 🛒 Premium License & Pricing
-
-Get permanent access to advanced features, optimization updates, and full support by upgrading to our Premium lifetime package.
-
-* **Premium Lifetime License:** **$3 USD** / **Rp 50.000** (One-time payment, no monthly subscriptions!)
-
----
-
 ## 📢 Join Our Community
 
 Need help, want to purchase a license, or looking for the latest announcements? Join our official community server:
