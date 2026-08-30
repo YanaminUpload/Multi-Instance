@@ -16,5 +16,6 @@ Roblox Multi Instance - Yanamin
 - Maximum Efficiency for Grinding
 - And Much More!
 ```
+Join https://discord.gg/D9DGhxqh4
 
 <img width="1421" height="775" alt="image" src="https://github.com/user-attachments/assets/6caa83c2-a9a1-417f-bfe4-b9150b711e8a" />
